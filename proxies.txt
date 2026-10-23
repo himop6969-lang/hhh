@@ -1,0 +1,7 @@
+# One proxy per line, format: protocol://user:pass@host:port
+# Supported protocols: http, https, socks5, socks5h
+# Rename this file to proxies.txt and fill in your own proxies.
+#
+# Example:
+# http://user:pass@203.0.113.10:8080
+# socks5://user:pass@203.0.113.11:1080
